@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+
+body{
+  font-family:'Montserrat Alternates' ;
+  background-image: url(../src/img/a48280bfeaf6491488b568c88bb60319.jpg);
+ 
+}
+nav .nav-link,.navbar-brand{
+  color:#ece2db; 
+
+ 
+}
+
+.sosial i {
+  margin-right:10px;
+
+}

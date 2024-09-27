@@ -1,0 +1,32 @@
+.product-page h1{
+    color:rgb(235, 235, 168);
+    margin: 60px;
+  font-family:'Montserrat Alternates' ;
+
+}
+
+.filter-buttons {
+  margin-bottom: 20px;
+}
+
+.filter-button {
+  margin: 5px;
+  padding: 10px 15px;
+  border: none;
+  background-color:rgb(235, 235, 168);
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+
+.filter-buttons .filter-button {
+  background-color: rgb(235, 235, 168);
+  margin-bottom: 50px;
+}
+.filter-buttons .filter-button:hover{
+  background-color: #f0ad4e;
+  margin-bottom: 50px;
+  
+}

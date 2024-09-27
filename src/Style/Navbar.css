@@ -1,0 +1,13 @@
+.navStyle{
+margin-right: 100px;
+
+}
+.navbar-brand{
+    font-weight: 900;
+    font-size: large;
+
+}
+.navStyle :hover{
+    color: burlywood;
+
+}
